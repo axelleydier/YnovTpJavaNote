@@ -3,16 +3,16 @@ package tp.poo.rental;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.ArrayList;
+import java.util.Optional;
 
 public class CarRental<e> {
 
     private int indexTab = 0;
     private Object tab[];
 
-    public int maxDate;
+    private int maxDate;
 
     private int dateVehicule;
-
 
 
     public CarRental(int n) {
@@ -37,6 +37,11 @@ public class CarRental<e> {
             System.out.println(tab[i]);
             System.out.println(", ");
         }
+    }
+
+    public Optional findCarByModel() {
+
+        return null;
     }
 
     public List<Integer> toSell() {

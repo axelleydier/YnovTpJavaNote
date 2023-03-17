@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="945f4bf9-e13d-4fca-9d52-7c609e23fa0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tp/poo/rental/Camel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tp/poo/rental/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tp/poo/rental/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tp/poo/rental/CarRental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tp/poo/rental/CarRental.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tp/poo/rental/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tp/poo/rental/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +35,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -56,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679042947377</updated>
-      <workItem from="1679042949376" duration="11293000" />
+      <workItem from="1679042949376" duration="13144000" />
     </task>
     <servers />
   </component>

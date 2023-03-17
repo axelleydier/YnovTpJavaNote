@@ -12,11 +12,9 @@ public class Car {
     public Car(String marque, Integer dateVehicule) {
         this.marque = marque;
         this.dateVehicule = dateVehicule;
-
     }
 
     public void shareVehicule() {
         int value = dateVehicule + 1;
     }
-
 }
